@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HomoPhonic Music Blog</title>
+    <link>https://homophonic.github.io/posts/</link>
+    <description>Recent content in Posts on HomoPhonic Music Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 20:59:13 -0800</lastBuildDate>
+    <atom:link href="https://homophonic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://homophonic.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 24 Feb 2025 20:59:13 -0800</pubDate>
+      <guid>https://homophonic.github.io/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-homophonic&#34;&gt;Welcome to HomoPhonic!&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to HomoPhonic, the music blog of none other than I, the Phonic Homo!&lt;/p&gt;&#xA;&lt;p&gt;The site is under construction. Check back soon!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

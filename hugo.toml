@@ -1,0 +1,4 @@
+baseURL = 'https://homophonic.github.io'
+languageCode = 'en-us'
+title = 'HomoPhonic Music Blog'
+theme = 'ananke'
