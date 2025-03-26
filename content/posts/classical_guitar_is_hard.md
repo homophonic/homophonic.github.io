@@ -100,7 +100,7 @@ learned in one piece are insufficient to play the next.
 For example, the three most recent beginner pieces I have learned each have a
 specific lesson: 
 1. Specific types of left-hand chord transitions
-1. Staccatto versus legato articulation and damping (intentionally muting). 
+1. Staccato versus legato articulation and damping (intentionally muting). 
 1. Layering three distinct voices together to form a cohesive whole. 
 
 Playing any one of these pieces well does not give you the skills to play the
@@ -122,7 +122,7 @@ when you don't sound great.
 
 Early pieces in classical guitar are often solo. Any mistakes you make are in
 in the spotlight. Moreover, since entertaining the audience is your job and
-your job alone, we revisit the notion of reptition: if someone were to strum
+your job alone, we revisit the notion of repetition: if someone were to strum
 three chords for three minutes with no vocals, the audience would be painfully
 bored and dread whatever they were about to hear next. You instead need to walk
 through a number of different musical ideas to keep the audience engaged and
@@ -165,7 +165,7 @@ stretching your fingers *quite* far, and positioning them in extremely precise
 ways to not disturb strings they should not be touching. 
 
 Sounding combinations and sequences of notes can come with wildly different
-fingerings depending on context. Notes appear in multiple placees, and the
+fingerings depending on context. Notes appear in multiple places, and the
 fingers used to play them (even if they're in one spot) constantly change. My
 teacher with over fifty years' experience has remarked on multiple occasions
 that the difficulty of playing music on guitar is front-loaded in this way -
@@ -186,7 +186,7 @@ played on other instruments.
 #### Timbre
 
 Classical guitar has a surprisingly wide range of timbre depending on where and
-how strings are plucked. This is someting that takes practice, but even fairly
+how strings are plucked. This is something that takes practice, but even fairly
 new players can use this to add another dimension to their playing.
 
 ## Should I try classical guitar? 
@@ -213,8 +213,7 @@ playing without nails [here](https://www.youtube.com/watch?v=GjNFvtRU4Jc).
 
 If you want a nail-like timbre but can't have nails for practical reasons, you
 can fashion wire fingerpicks to replace nails -- see
-[butterflyfingerpicks.com](https://www.butterflyfingerpicks.com/) for
-instructions. I have not tried this myself, but have seen at least one video
+[butterflyfingerpicks.com](https://www.butterflyfingerpicks.com/). I have not tried this myself, but have seen at least one video
 testimonial.
 
 ### When It's Not For You
@@ -226,7 +225,7 @@ genres of music.
 
 Genres like rock, folk, and pop might have more rewarding early milestones, 
 and you might be able to participate more with family and friends early on.
-The experience may be rewarding with fewer techincal skills, and you can 
+The experience may be rewarding with fewer technical skills, and you can 
 always expand your technical skills later. 
 
 If you are undecided now, classical guitar will still be there for you later.
