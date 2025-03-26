@@ -17,7 +17,7 @@ than other forms of guitar, but I feel like a fair amount of the discussion I
 saw didn't seem to get to the heart of my experience.
 
 If you're exploring music and interested in whether you should approach
-classical guitar, see the {last section}[] below. 
+classical guitar, see the [last section](#should-i-try-classical-guitar) below. 
 
 ### Disclaimer
 
@@ -189,7 +189,7 @@ Classical guitar has a surprisingly wide range of timbre depending on where and
 how strings are plucked. This is someting that takes practice, but even fairly
 new players can use this to add another dimension to their playing.
 
-## Should I try classical guitar?
+## Should I try classical guitar? 
 
 If you want to play classical guitar, then of course you should!  If you don't
 know, read below to help find out.
@@ -240,7 +240,3 @@ yourself and pitches independent of your instrument. You should be using your
 mind to imagine the music, and your instrument to conjure it, rather than
 imagining your muscle memory on the instrument, and guessing whether it's right
 after you produce the sound.
-
-
-
-
